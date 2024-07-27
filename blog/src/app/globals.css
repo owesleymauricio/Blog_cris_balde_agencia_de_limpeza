@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Playwrite+AR:wght@100..400&display=swap');
+
+
+:root {
+  --max-width: 1100px;
+  --border-radius: 12px;
+  --style-cris-balde: 'Playwrite AR', sans-serif;
+  --style-agencia-limpeza: 'Bebas Neue', sans-serif;
+}
